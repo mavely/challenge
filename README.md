@@ -14,7 +14,6 @@
 
 - Feel free to download Mavely for design inspiration, look at other feeds, or build on your own design.
 - This challenege is meant to test your ability to complete a self-contained project, communicate, and deliver on that project.
-- Please do not hesitate to reach out to Sean (sean@mavely.life) with any questions.
 
 ### Submission
 
