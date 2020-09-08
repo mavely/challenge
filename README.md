@@ -6,10 +6,6 @@
 - Uses our graphql product api.
 - Include relevant product information on the feed: images, title, descriptions, product details, call to action.
 
-### GraphQL Product API
-
-- Please Email Sean (sean@mavely.life) to obtain the GraphQL endpoint
-
 ### Misc
 
 - Feel free to download Mavely for design inspiration, look at other feeds, or build on your own design.
